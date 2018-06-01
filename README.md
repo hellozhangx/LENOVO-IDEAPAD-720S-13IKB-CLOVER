@@ -9,10 +9,13 @@ DISK 三星 PM961<br>
 Display LG FHD<br> 
 WIFI BCM94352z（DW1560，无需刷白名单即可更换）<br> 
 表格
-  表头  | 表头
-  ------------- | -------------
- 单元格内容  | 单元格内容
- 单元格内容l  | 单元格内容
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
 
 
 安装注意事项
