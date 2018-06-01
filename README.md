@@ -11,12 +11,12 @@ DISK |三星 PM961
 Display| LG FHD
 WIFI |BCM94352z（DW1560）
 <br> 
-
-
 安装注意事项
 ----
 关闭Intel SGX<br> 
 关闭Secure BOOT<br> 
+不要使用BCM94350(FRU00JT494),极其卡顿，无法使用<br> 
+GPIO int注入0x1B 否则VoodooI2C不匹配，无法降频<br> 
 
 存在的问题
 ----
