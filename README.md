@@ -11,6 +11,7 @@ DISK |三星 PM961
 Display| LG FHD
 WIFI |BCM94352z（DW1560）
 <br> 
+
 安装注意事项
 ----
 关闭Intel SGX<br> 
