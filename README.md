@@ -17,13 +17,19 @@ WIFI |BCM94352z（DW1560）
 关闭Intel SGX<br> 
 关闭Secure BOOT<br> 
 不要使用BCM94350(FRU00JT494),极其卡顿，无法使用<br> 
-GPIO int注入0x1B 否则VoodooI2C不匹配，无法降频<br> 
+GPIO int注入0x1B 否则与VoodooI2C不匹配，导致无法降频<br> 
 
 存在的问题
 ----
-触摸板偶尔失效
+触摸板偶尔失效<br> 
 
-致谢
+Change Log
+----
+2018-06-01 CLOVER 4497<br> 
+Credit
 ----
 [dragonflylee](http://i.pcbeta.com/space-uid-887403.html) for 
 [联想 Yoga730 macOS 10.13.4 安装成功](http://bbs.pcbeta.com/viewthread-1779842-1-1.html)<br> 
+
+
+
