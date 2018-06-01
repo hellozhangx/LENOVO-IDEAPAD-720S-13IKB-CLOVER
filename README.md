@@ -3,16 +3,15 @@ LENOVO-IDEAPAD-720S-13IKB-I5-8250U
 
 系统配置
 ---
-CPU  I5 8250U<br> 
-RAM  8G DDR4 2400MHz<br> 
-DISK 三星 PM961<br> 
-Display LG FHD<br> 
-WIFI BCM94352z（DW1560，无需刷白名单即可更换）<br> 
+硬件| 型号
+----|----
+CPU | I5 8250U
+RAM | 8G DDR4 2400MHz
+DISK |三星 PM961
+Display| LG FHD
+WIFI |BCM94352z（DW1560，无需刷白名单即可更换）
 
-
-| col 3 is      | right-aligned | 
-| col 2 is      | centered      |  
-| zebra stripes | are neat      |    
+ 
 
 <br> 
 
