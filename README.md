@@ -26,6 +26,7 @@ GPIO int注入0x1B 否则与VoodooI2C不匹配，导致无法降频<br>
 Change Log
 ----
 2018-06-01 CLOVER 4497<br> 
+
 Credit
 ----
 [dragonflylee](http://i.pcbeta.com/space-uid-887403.html) for 
