@@ -21,4 +21,4 @@ WIFI BCM94352z（DW1560，无需刷白名单即可更换）<br>
 致谢
 ----
 [dragonflylee](http://i.pcbeta.com/space-uid-887403.html)<br> 
-[联想 Yoga730 macOS 10.13.4 安装成功]（http://bbs.pcbeta.com/viewthread-1779842-1-1.html）<br> 
+[联想 Yoga730 macOS 10.13.4 安装成功](http://bbs.pcbeta.com/viewthread-1779842-1-1.html)<br> 
