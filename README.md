@@ -9,11 +9,10 @@ DISK 三星 PM961<br>
 Display LG FHD<br> 
 WIFI BCM94352z（DW1560，无需刷白名单即可更换）<br> 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+| col 3 is      | right-aligned | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |    
 
 <br> 
 
