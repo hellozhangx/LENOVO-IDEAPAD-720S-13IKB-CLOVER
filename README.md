@@ -9,10 +9,7 @@ CPU | I5 8250U
 RAM | 8G DDR4 2400MHz
 DISK |三星 PM961
 Display| LG FHD
-WIFI |BCM94352z（DW1560，无需刷白名单即可更换）
-
- 
-
+WIFI |BCM94352z（DW1560）
 <br> 
 
 
